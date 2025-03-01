@@ -1,11 +1,11 @@
-# Spark Project: Understanding Emotions in IMDB Movie Reviews
+# Engagement Patterns Across Media Platforms
 
 ## Overview
 
 **Goal:**
-The goal of this project is to understand the relationship between **emotions**, **ratings**, and **keyword frequency** in movie reviews. By analyzing these patterns, we aim to enable **personalized and meaningful recommendations** based on user feedback.
+The goal of this project is to understand the relationship between **emotions**, **ratings**, and **keyword frequency** in book reviews, movie reviews and lyrics. By analyzing these patterns, we aim to enable **personalized and meaningful recommendations** based on user feedback.
 
-This project uses **Apache Spark** to analyze the IMDB reviews dataset from [Kaggle](https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset) (7.78 GB). The project consists of two main analyses:
+This project uses **Apache Spark** to analyze the datasets from Amazon, IMDB, and Genius platforms. The project consists of two main analyses:
 
 1. **Emotion Analysis**
 
